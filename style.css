@@ -1,0 +1,68 @@
+body {
+  line-height: 25px;
+  text-align: center;
+  background-image: url(images/gplaypattern_@2X.png);
+}
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #8584E0;
+  opacity: 0.7;
+  letter-spacing: 3px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(80,80,80);
+}
+
+a:hover {
+  color: #8584E0;
+}
+
+.img-round-border {
+  height: 200px;
+  border-radius: 7px;
+}
+
+.img-circle {
+  height: 250px;
+  border-radius: 50%;
+}
+
+.img-circle-small {
+  height: 100px;
+  border-radius: 50%;
+}
+
+.container {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 24px;
+  border-radius: 5px;
+  background-color: white;
+  /*width: 630px;*/
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.fab {
+  font-size: 25px;
+}
+
+.spacing {
+  letter-spacing: 5px;
+}
+
+.shadowed {
+  box-shadow: 5px, 5px, 3px, rgba(50,50,50,0.3);
+}
